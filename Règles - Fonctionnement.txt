@@ -1,0 +1,39 @@
+Touche 'espace' : lancer la balle, Pause
+
+Touche 'w' en pause : activer / désactiver les bruitages
+Touche 'x' en pause : activer / désactiver la musique
+
+Touches fléchées : déplacer la barre
+
+Vous pouvez "fritter" la balle pour changer son angle de collision, en déplaçant la barre en même temps qu'elle touche la balle.
+
+
+Il y a 4 types de briques :
+- faible (jaune)
+- moyenne (verte)
+- forte (bleue)
+- bonus (blanche)
+
+Chaque fois que vous touchez une brique, vous gagnez 1 point.
+Chaque brique détruite rapporte son nombre de vie en points.
+
+Une brique bonus détruite libère un bonus aléatoire qui tombe verticalement.
+Si vous attrappez ce bonus avec la barre, il sera effectif :
+- points supplémentaires
+- balle suplémentaire
+- agrandissement  de la barre
+- puissance accrue de la balle
+- balle bonus (4 max, vertes)
+- rebond des balles bonus : si les balles bonus touchent le bas de l'écran, elles rebondiront au lieu de se perdre.
+
+
+Si vous perdez la balle principale (rouge), la barre reprend sa taille originale, vous perdez les balle bonus, et la puissance de la balle principale diminue.
+
+
+Le jeu enregistre si vous avez désactivé ou non la musique et les bruitages, ainsi que le niveau auquel vous êtes pour ne pas avoir à tout recommencer.
+
+
+Ne supprimez aucun dossier oufichier, sans quoi l'exécutable n'aurait pas les resources nécessaires au bon fonctionnement du jeu.
+
+
+Bon jeu !
